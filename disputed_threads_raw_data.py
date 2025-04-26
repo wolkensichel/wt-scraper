@@ -3,7 +3,7 @@
 """
 Created on Mon Nov 11 10:34:31 2019
 
-@author: wolkensichel
+@author: Alexander Aigner
 """
 
 from urllib3 import PoolManager, ProxyManager, make_headers, util

@@ -3,7 +3,7 @@
 """
 Created on Tue Nov 12 23:05:10 2019
 
-@author: wolkensichel
+@author: Alexander Aigner
 """
 
 interventions = {}
